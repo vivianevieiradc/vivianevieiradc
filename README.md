@@ -7,6 +7,10 @@
 <p>Trabalhando na {Techcomtecnologia} <br/> Eu sou analista de infraestrutura e Redes, DevOps</p>
 
 <p align="left">
+  💌 Se quiser entrar em contato comigo: ⤵️
+</p>
+
+<p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
