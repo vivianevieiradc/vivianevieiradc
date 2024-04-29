@@ -10,7 +10,7 @@
   </b></p>
   
 <p align="left">
-  🔭 Atualmente estou trabalhando em um projeto de implementação do GLPI. 
+  🔭 Atualmente estou estudando Docker. 
 </p>
 
 <p align="left">
