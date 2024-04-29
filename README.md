@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=viviane&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {Techcomtecnologia} <br/> Eu sou analista de infraestrutura e Redes, DevOps</p>
+<p align="left">
+  💼 Stacks: **Linux, Redes de computadores, Zabbix, Grafana, Prometheus, Netbox.**
+</p>
 
 <p align="left">
   💌 Se quiser entrar em contato comigo: ⤵️
