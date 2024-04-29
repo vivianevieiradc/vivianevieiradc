@@ -6,7 +6,7 @@
 
 <p>Trabalhando na <b>{Techcomtecnologia}</b> <br/> Eu sou analista de infraestrutura e Redes, DevOps</p>
 <p align="left">
-  💼 Stacks: <b>Linux, Redes de computadores, Zabbix, Grafana, <br>Prometheus, Netbox.</br>
+  💼 Stacks: <b>Linux, Redes de computadores, Zabbix,<br>Grafana, Prometheus, Netbox.</br>
   </b></p>
   
 <p align="left">
