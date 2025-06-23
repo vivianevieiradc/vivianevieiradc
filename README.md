@@ -6,11 +6,11 @@
 
 <p><br/> Eu sou analista de infraestrutura e Redes, DevOps</p>
 <p align="left">
-  💼 Stacks: <b>AWS, Azure, Terraform ,<br>Grafana, Prometheus, CI/CD, Linux.</br>
+  💼 Stacks: <b>AWS, Azure,Kubernetes, Docker,Terraform ,<br>Grafana, Prometheus, CI/CD, Linux.</br>
   </b></p>
   
 <p align="left">
-  🔭 Atualmente estou estudando Docker. 
+  🔭 Atualmente estou estudando Terraform. 
 </p>
 
 <p align="left">
