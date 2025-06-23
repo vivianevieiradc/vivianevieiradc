@@ -6,7 +6,7 @@
 
 <p><br/> Eu sou analista de infraestrutura e Redes, DevOps</p>
 <p align="left">
-  💼 Stacks: <b>Linux, Redes de computadores, Zabbix,<br>Grafana, Prometheus, Netbox.</br>
+  💼 Stacks: <b>AWS, Azure, Terraform ,<br>Grafana, Prometheus, CI/CD, Linux.</br>
   </b></p>
   
 <p align="left">
