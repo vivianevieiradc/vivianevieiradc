@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=viviane&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p><br/> Eu sou analista de infraestrutura e Redes, DevOps</p>
+<p><br/> Eu sou DevOps</p>
 <p align="left">
   💼 Stacks: <b>AWS, Azure,Kubernetes, Docker,Terraform ,<br>Grafana, Prometheus, CI/CD, Linux.</br>
   </b></p>
