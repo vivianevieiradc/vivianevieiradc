@@ -29,21 +29,17 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-783c00?style=flat-square&logo=amazonaws&logoColor=f8efd4" height="28" alt="AWS" title="AWS" />
-  <img src="https://img.shields.io/badge/Azure-783c00?style=flat-square&logo=microsoftazure&logoColor=f8efd4" height="28" alt="Azure" title="Azure" />
-  <img src="https://cdn.simpleicons.org/kubernetes/783c00" width="28" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://cdn.simpleicons.org/docker/783c00" width="28" alt="Docker" title="Docker" />
-  <img src="https://cdn.simpleicons.org/terraform/783c00" width="28" alt="Terraform" title="Terraform" />
-  <img src="https://cdn.simpleicons.org/githubactions/783c00" width="28" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/python/783c00" width="28" alt="Python" title="Python" />
-  <img src="https://cdn.simpleicons.org/gnubash/783c00" width="28" alt="Bash" title="Bash" />
-  <img src="https://cdn.simpleicons.org/linux/783c00" width="28" alt="Linux" title="Linux" />
-  <img src="https://cdn.simpleicons.org/grafana/783c00" width="28" alt="Grafana" title="Grafana" />
-  <img src="https://cdn.simpleicons.org/prometheus/783c00" width="28" alt="Prometheus" title="Prometheus" />
-</p>
-
-<p align="center">
-  <sub>AWS · Azure · Kubernetes · Docker · Terraform · GitHub Actions · Python · Bash · Linux · Grafana · Prometheus</sub>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
 ## 🚀 Projetos
