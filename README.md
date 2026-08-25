@@ -29,8 +29,8 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/783c00" width="28" alt="AWS" title="AWS" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/783c00" width="28" alt="Azure" title="Azure" />
+  <img src="https://img.shields.io/badge/AWS-783c00?style=flat-square&logo=amazonaws&logoColor=f8efd4" height="28" alt="AWS" title="AWS" />
+  <img src="https://img.shields.io/badge/Azure-783c00?style=flat-square&logo=microsoftazure&logoColor=f8efd4" height="28" alt="Azure" title="Azure" />
   <img src="https://cdn.simpleicons.org/kubernetes/783c00" width="28" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.simpleicons.org/docker/783c00" width="28" alt="Docker" title="Docker" />
   <img src="https://cdn.simpleicons.org/terraform/783c00" width="28" alt="Terraform" title="Terraform" />
