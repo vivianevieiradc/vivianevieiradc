@@ -29,7 +29,7 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,githubactions,python,bash,linux,grafana,prometheus" alt="AWS, Azure, Kubernetes, Docker, Terraform, GitHub Actions, Python, Bash, Linux, Grafana e Prometheus" />
+  <img height="36" src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,githubactions,python,bash,linux,grafana,prometheus" alt="AWS, Azure, Kubernetes, Docker, Terraform, GitHub Actions, Python, Bash, Linux, Grafana e Prometheus" />
 </p>
 
 ## 🚀 Projetos em destaque
