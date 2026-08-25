@@ -59,6 +59,16 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" height="200" alt="Estatísticas do GitHub da Viviane" />
 </p>
 
+## 🐍 Contribuições
+
 <p align="center">
-  <em>Automação, confiabilidade e café ☕</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivianevieiradc/vivianevieiradc/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivianevieiradc/vivianevieiradc/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/vivianevieiradc/vivianevieiradc/output/github-contribution-grid-snake.svg" width="100%" alt="Animação das contribuições do GitHub" />
+  </picture>
+</p>
+
+<p align="center">
+  <em>Atualizada diariamente via GitHub Actions · Automação, confiabilidade e café ☕</em>
 </p>
