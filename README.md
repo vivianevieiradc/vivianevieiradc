@@ -1,92 +1,64 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:783c00,100:af552e&height=190&section=header&text=Viviane%20Vieira&fontSize=42&fontColor=f8efd4&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descAlignY=58&descSize=17" width="100%" alt="Banner com o nome Viviane Vieira" />
-</div>
+<h1 align="center">Viviane Vieira</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=783C00&center=true&vCenter=true&width=720&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+Infrastructure+as+Code;AWS+%7C+Kubernetes+%7C+Terraform" alt="DevOps Engineer, Cloud, Automation, Infrastructure as Code, AWS, Kubernetes e Terraform" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-v-costa/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://vivianedevops.substack.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/viviane-v-costa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vivianedevops.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+  </a>
+</p>
 
-</div>
+## 👋 Sobre mim
 
-## 👋 Quem sou
+DevOps Engineer focada em tornar infraestrutura e deploys mais seguros, previsíveis e automatizados.
 
-Sou **DevOps Engineer** com 6 anos de experiência em Infraestrutura e Operações de TI. Trabalho na administração, automação e evolução de ambientes Cloud seguros, escaláveis e confiáveis.
-
-Atualmente, atuo como **DevOps Engineer II na Melhor Envio**, com foco em AWS, containers, Terraform, CI/CD, observabilidade, segurança e automação de processos operacionais.
-
-- 📍 Natal, Rio Grande do Norte, Brasil
-- 🎓 Formação em Redes de Computadores pelo IFRN
-- 🔧 Foco profissional: Cloud, DevOps, Infrastructure as Code e GitOps
-- 🧩 Temas de interesse: confiabilidade, troubleshooting, segurança e melhoria contínua
+No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e troubleshooting. Também compartilho estudos e aprendizados sobre DevOps no [Substack](https://vivianedevops.substack.com/).
 
 ## 🛠️ Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,githubactions,python,bash,linux,grafana,prometheus" alt="AWS, Azure, Kubernetes, Docker, Terraform, GitHub Actions, Python, Bash, Linux, Grafana e Prometheus" />
-</div>
-
-<br />
-
-| Área | Tecnologias |
-|---|---|
-| Cloud | AWS, Azure, EC2, ECS, ECR, RDS, S3, VPC, IAM, CloudWatch e WAF |
-| Containers | Docker, Amazon ECS e Kubernetes/EKS |
-| IaC | Terraform e módulos reutilizáveis |
-| CI/CD e GitOps | GitHub Actions, AWS CodePipeline, AWS CodeBuild e ArgoCD |
-| Observabilidade | CloudWatch, Datadog, Prometheus e Grafana |
-| Automação | Python e Shell Script |
-
-## 💼 Experiência
-
-- **Melhor Envio** — DevOps Engineer II
-- **DealerSpace** — DevOps Engineer III
-- **TechCom Tecnologia** — Analista de Redes e Infraestrutura | DevOps
-- **Defensoria Pública do Estado do RN** — Suporte Técnico de Informática
-
-## 🏅 Certificações
-
-- AWS Certified Cloud Practitioner (CLF-C02)
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Security, Compliance & Identity Fundamentals (SC-900)
-- Oracle Cloud Infrastructure Foundations
-- GitHub Copilot (GH-300)
+</p>
 
 ## 🚀 Projetos em destaque
 
 <table>
   <tr>
-    <td width="50%">
-      <strong><a href="https://github.com/vivianevieiradc/localstack-ecs-lab">ECS Blue/Green Deployment Lab</a></strong><br />
-      Laboratório de deploy Blue/Green em ECS com EC2, Terraform, CodePipeline, CodeBuild, CodeDeploy, ECR e observabilidade.
+    <td width="33%" align="center">
+      <a href="https://github.com/vivianevieiradc/localstack-ecs-lab">
+        <strong>ECS Blue/Green Lab</strong>
+      </a>
+      <br /><br />
+      Deploy Blue/Green em ECS com Terraform, CodePipeline, CodeDeploy e observabilidade.
     </td>
-    <td width="50%">
-      <strong><a href="https://github.com/vivianevieiradc/docker-optimized-images">Docker Base Images</a></strong><br />
-      Imagens Docker otimizadas com pipeline CI/CD. A imagem Python foi reduzida de 1,17 GB para 158 MB.
+    <td width="33%" align="center">
+      <a href="https://github.com/vivianevieiradc/docker-optimized-images">
+        <strong>Docker Base Images</strong>
+      </a>
+      <br /><br />
+      Imagens Docker otimizadas com build e push automatizados via GitHub Actions.
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong><a href="https://github.com/vivianevieiradc/terraform-ecs">ECS Terraform MVP</a></strong><br />
-      Infraestrutura modular em Terraform para ECS com EC2, ASG, VPC, Security Groups e IAM.
-    </td>
-    <td width="50%">
-      <strong><a href="https://github.com/vivianevieiradc/gh-200">GH-200</a></strong><br />
-      Repositório de estudos para a certificação GitHub Actions.
+    <td width="33%" align="center">
+      <a href="https://github.com/vivianevieiradc/terraform-ecs">
+        <strong>ECS com Terraform</strong>
+      </a>
+      <br /><br />
+      Infraestrutura modular para ECS com EC2, VPC, ASG, Security Groups e IAM.
     </td>
   </tr>
 </table>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" height="200" alt="Estatísticas do GitHub da Viviane" />
-</div>
+</p>
 
-## 📫 Vamos conversar?
-
-Se quiser falar sobre Cloud, DevOps, automação ou infraestrutura, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/viviane-v-costa/) ou acompanhe meu [blog no Substack](https://vivianedevops.substack.com/).
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:af552e,100:783c00&height=100&section=footer" width="100%" alt="Rodapé decorativo" />
-</div>
+<p align="center">
+  <em>Automação, confiabilidade e café ☕</em>
+</p>
