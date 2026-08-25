@@ -53,10 +53,11 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
   </tr>
 </table>
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" height="200" alt="Estatísticas do GitHub da Viviane" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" width="49%" height="200" alt="Estatísticas do GitHub da Viviane" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" width="49%" height="200" alt="Linguagens mais usadas nos repositórios da Viviane" />
 </p>
 
 ## 🐍 Contribuições
