@@ -29,36 +29,28 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
 ## 🛠️ Stack
 
 <p align="center">
-  <img height="36" src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,githubactions,python,bash,linux,grafana,prometheus" alt="AWS, Azure, Kubernetes, Docker, Terraform, GitHub Actions, Python, Bash, Linux, Grafana e Prometheus" />
+  <img src="https://cdn.simpleicons.org/amazonaws/783c00" width="28" alt="AWS" title="AWS" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/783c00" width="28" alt="Azure" title="Azure" />
+  <img src="https://cdn.simpleicons.org/kubernetes/783c00" width="28" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/docker/783c00" width="28" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/terraform/783c00" width="28" alt="Terraform" title="Terraform" />
+  <img src="https://cdn.simpleicons.org/githubactions/783c00" width="28" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/python/783c00" width="28" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/gnubash/783c00" width="28" alt="Bash" title="Bash" />
+  <img src="https://cdn.simpleicons.org/linux/783c00" width="28" alt="Linux" title="Linux" />
+  <img src="https://cdn.simpleicons.org/grafana/783c00" width="28" alt="Grafana" title="Grafana" />
+  <img src="https://cdn.simpleicons.org/prometheus/783c00" width="28" alt="Prometheus" title="Prometheus" />
 </p>
 
-## 🚀 Projetos em destaque
+<p align="center">
+  <sub>AWS · Azure · Kubernetes · Docker · Terraform · GitHub Actions · Python · Bash · Linux · Grafana · Prometheus</sub>
+</p>
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/vivianevieiradc/localstack-ecs-lab">
-        <strong>ECS Blue/Green Lab</strong>
-      </a>
-      <br /><br />
-      Deploy Blue/Green em ECS com Terraform, CodePipeline, CodeDeploy e observabilidade.
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/vivianevieiradc/docker-optimized-images">
-        <strong>Docker Base Images</strong>
-      </a>
-      <br /><br />
-      Imagens Docker otimizadas com build e push automatizados via GitHub Actions.
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/vivianevieiradc/terraform-ecs">
-        <strong>ECS com Terraform</strong>
-      </a>
-      <br /><br />
-      Infraestrutura modular para ECS com EC2, VPC, ASG, Security Groups e IAM.
-    </td>
-  </tr>
-</table>
+## 🚀 Projetos
+
+- [ECS Blue/Green Lab](https://github.com/vivianevieiradc/localstack-ecs-lab) — deploy Blue/Green em ECS com Terraform, CodePipeline, CodeDeploy e observabilidade.
+- [Docker Base Images](https://github.com/vivianevieiradc/docker-optimized-images) — imagens Docker otimizadas com build e push automatizados via GitHub Actions.
+- [ECS com Terraform](https://github.com/vivianevieiradc/terraform-ecs) — infraestrutura modular para ECS com EC2, VPC, ASG, Security Groups e IAM.
 
 ## 📊 GitHub Stats
 
