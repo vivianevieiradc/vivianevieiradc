@@ -6,11 +6,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viviane-v-costa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://vivianedevops.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Security Compliance and Identity Fundamentals" />
+  <img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 ## 👋 Sobre mim
@@ -56,8 +63,16 @@ No dia a dia, trabalho com AWS, containers, Terraform, CI/CD, observabilidade e 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" width="49%" height="200" alt="Estatísticas do GitHub da Viviane" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivianevieiradc&theme=default&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00&hide_logo=true" width="49%" height="200" alt="Linguagens mais usadas nos repositórios da Viviane" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=github_dark&bg_color=00000000&title_color=f8efd4&text_color=e5e7eb&icon_color=af552e&border_color=00000000&hide_logo=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=00000000&title_color=783c00&text_color=af552e&icon_color=783c00&border_color=00000000&hide_logo=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivianevieiradc&theme=default&bg_color=00000000&title_color=783c00&text_color=af552e&icon_color=783c00&border_color=00000000&hide_logo=true" width="49%" height="200" alt="Estatísticas do GitHub da Viviane" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivianevieiradc&theme=github_dark&bg_color=00000000&title_color=f8efd4&text_color=e5e7eb&icon_color=af552e&border_color=00000000&hide_logo=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivianevieiradc&theme=default&bg_color=00000000&title_color=783c00&text_color=af552e&icon_color=783c00&border_color=00000000&hide_logo=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivianevieiradc&theme=default&bg_color=00000000&title_color=783c00&text_color=af552e&icon_color=783c00&border_color=00000000&hide_logo=true" width="49%" height="200" alt="Linguagens mais usadas nos repositórios da Viviane" />
+  </picture>
 </p>
 
 ## 🐍 Contribuições
